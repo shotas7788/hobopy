@@ -1,1 +1,3 @@
 .venv/
+hobopy-backend/.chalice/deployments/
+hobopy-backend/.chalice/venv/
