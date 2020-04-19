@@ -44,9 +44,9 @@ def delete_todo(todo_id):
     # １．データを削除する
     return database.delete_todo(todo_id)
 
-@app.route('/')
-def index():
-    return {'hello': 'world'}
+# @app.route('/')
+# def index():
+#     return {'hello': 'world'}
 
 
 # The view function above will return {"hello": "world"}
