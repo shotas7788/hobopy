@@ -1,3 +1,10 @@
 .venv/
 hobopy-backend/.chalice/deployments/
 hobopy-backend/.chalice/venv/
+bucket-policy-staging.json
+deploy-assume-role-policy.json
+build-assume-role-policy.json
+deploy-policy.json
+pipeline.json
+build-policy.json
+project.json
